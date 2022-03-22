@@ -1,1 +1,3 @@
 # Quizz
+
+** Yangilik qo'shish**
