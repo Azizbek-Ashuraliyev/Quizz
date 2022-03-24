@@ -2,3 +2,4 @@
 
 ubdeted
 ** Yangilik qo'shish**
+ yangiliklar 
