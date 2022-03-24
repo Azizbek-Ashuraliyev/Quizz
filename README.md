@@ -1,4 +1,4 @@
 # Quizz udet
 
-udetetd in locol 
+ubdeted
 ** Yangilik qo'shish**
